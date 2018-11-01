@@ -1,2 +1,5 @@
 # hello-world
-The Hello World repository.
+
+What's up!
+
+Just learning how to use GitHub. Testing here.
